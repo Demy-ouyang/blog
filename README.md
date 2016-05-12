@@ -3,7 +3,7 @@
 - [CSS|特殊!important #2](https://github.com/Demy-ouyang/blog/issues/2)
 - [less and sass #3](https://github.com/Demy-ouyang/blog/issues/3)
 
-### 平时收藏的链接和博客地址
+### 平时收藏的链接和博客地址(持续更新)
 
 #### HTML+CSS
  - css tools
