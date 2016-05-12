@@ -67,6 +67,7 @@
 #### 问答解疑论坛（你可能找到问题答案的地方）
  - 有哪些经常被误用的 HTML、JavaScript、CSS 的元素、方法和属性？ https://www.zhihu.com/question/20979831
  - 在 CSS 中，用 float 和 position 的区别是什么？ https://www.zhihu.com/question/19588854
+ 
 #### 干货
  - 推荐大家使用的CSS书写规范及顺序 http://www.uisdc.com/css-written-specifications
  - css3字体图标 http://www.uiplayground.in/css3-icons/
@@ -75,4 +76,5 @@
 #### 国外好站
  - Codrops是一个基于CSS3实现的全屏网页过渡特效的设计模板 http://tympanus.net/codrops/category/tutorials/
  - 一个比较好的前端博客类型网站 https://paulund.co.uk/c/tutorials
+ - 一些兼容标签or属性详细介绍 http://caniuse.com/
  
