@@ -48,7 +48,7 @@
  - bootstrap
  - gulp
      * Gulp安装及配合组件构建前端开发一体化 http://www.dbpoo.com/getting-started-with-gulp/
-     *
+     
  
 #### 移动端
 
@@ -61,7 +61,7 @@
  - Sass
  - 在线编辑器
     * runjs-调试js http://runjs.cn/code/izibt19i
-    *
+    
  
 
 #### 问答解疑论坛（你可能找到问题答案的地方）
@@ -77,4 +77,5 @@
  - Codrops是一个基于CSS3实现的全屏网页过渡特效的设计模板 http://tympanus.net/codrops/category/tutorials/
  - 一个比较好的前端博客类型网站 https://paulund.co.uk/c/tutorials
  - 一些兼容标签or属性详细介绍 http://caniuse.com/
+ - w3c标准 https://www.w3.org/TR/
  
