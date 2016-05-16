@@ -4,7 +4,7 @@
 - [less and sass #3](https://github.com/Demy-ouyang/blog/issues/3)
 - [clearfix清除浮动 #4](https://github.com/Demy-ouyang/blog/issues)
 
-### 平时收藏的链接和博客地址
+### 平时收藏的链接和博客地址(持续更新)
 
 #### HTML+CSS
  - css tools
@@ -32,7 +32,7 @@
  - css技巧
     * [css巧妙实现分割线的几种方法] (http://www.daqianduan.com/4258.html) 
     * [CSS创建三角形（小三角）的几种方法] (http://www.daqianduan.com/4721.html)
-    * [CSS制作三角形状] (http://www.websbook.com.html)cssdiv/CSSzzsjxz_20258.html)
+    * [CSS制作三角形状] (http://www.websbook.com.html/cssdiv/CSSzzsjxz_20258.html)
     * [css改变默认滚动条样式] (http://www.codeproject.com/Tips/674478/Customize-Scrollbars-using-CSS)
     * [创建扁平checkbox] (https://paulund.co.uk/create-flat-checkboxes)
 
@@ -40,7 +40,7 @@
 #### javascript
   - 源生js
     * [JavaScript中的Date（日期）对象] (http://www.cnblogs.com/codeshark/archive/2008/07/15/1243331.html)
-    *
+
   - jquery插件
     * [基于jQuery的对象切换插件] (http://www.17sucai.com/pins/demoshow/308)
     
@@ -49,8 +49,7 @@
  - bootstrap
  - gulp
      * [Gulp安装及配合组件构建前端开发一体化] (http://www.dbpoo.com/getting-started-with-gulp/)
-     *
- 
+
 #### 移动端
 
 
@@ -61,19 +60,23 @@
     * [less入门]  (http://www.cnblogs.com/fsjohnhuang/p/4187675.html)
  - Sass
  - 在线编辑器
-    * [runjs-调试js] (http://runjs.cn/code/izibt19i
-    *
+    * [runjs-调试js] (http://runjs.cn/code/izibt19i)
  
 
 #### 问答解疑论坛（你可能找到问题答案的地方）
  - [有哪些经常被误用的 HTML、JavaScript、CSS 的元素、方法和属性？] (https://www.zhihu.com/question/20979831)
- -[ 在 CSS 中，用 float 和 position 的区别是什么？] (https://www.zhihu.com/question/19588854)
+ - [ 在 CSS 中，用 float 和 position 的区别是什么？] (https://www.zhihu.com/question/19588854)
+
 #### 干货
  - [推荐大家使用的CSS书写规范及顺序] (http://www.uisdc.com/css-written-specifications)
  - [css3字体图标] (http://www.uiplayground.in/css3-icons/)
  - [30个在线学习设计与开发的站点] (http://www.runoob.com/w3cnote/30-best-websites-to-learn.html)
 
 #### 国外好站
+
  - [Codrops是一个基于CSS3实现的全屏网页过渡特效的设计模板] (http://tympanus.net/codrops/category/tutorials/)
  - [一个比较好的前端博客类型网站] (https://paulund.co.uk/c/tutorials)
+ - [一些兼容标签or属性详细介绍] (http://caniuse.com/)
+ - [w3c标准] (https://www.w3.org/TR/)
+
  
