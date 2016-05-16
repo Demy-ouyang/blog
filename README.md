@@ -58,7 +58,17 @@
  - git
  - Less
     * [less入门]  (http://www.cnblogs.com/fsjohnhuang/p/4187675.html)
+    * [LESS中文官网](http://www.1024i.com/demo/less/)
+    * [Less中文网](http://lesscss.cn)
+    * [Bootstrap](http://www.bootcss.com/p/lesscss/)
+    * [慕课网Busy教程](http://www.imooc.com/learn/102，http://www.imooc.com/learn/61)
+    * [github](https://github.com/less/less.js)
  - Sass
+    * [w3cplus](http://www.w3cplus.com/sassguide/)
+    * [大漠老师慕课网教程](http://www.imooc.com/learn/311，http://www.imooc.com/learn/436)
+    * [慕课网Materliu教程](http://www.imooc.com/learn/364)
+    * [SASS中文网](http://www.sasschina.com)
+    * [SASS中文文档](http://sass.bootcss.com)
  - 在线编辑器
     * [runjs-调试js] (http://runjs.cn/code/izibt19i)
  
