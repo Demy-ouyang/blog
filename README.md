@@ -45,6 +45,7 @@
     * [JavaScript中的Date（日期）对象] (http://www.cnblogs.com/codeshark/archive/2008/07/15/1243331.html)
     * [JS中的prototype](http://www.cnblogs.com/yjf512/archive/2011/06/03/2071914.html)
     * [Backbone.js](http://www.css88.com/doc/backbone/)
+    * [DOM事件简介]{http://blog.jobbole.com/52430/}
     
   - jquery插件
     * [基于jQuery的对象切换插件] (http://www.17sucai.com/pins/demoshow/308)
